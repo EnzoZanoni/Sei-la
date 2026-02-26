@@ -1,19 +1,19 @@
 # Olá, eu sou o Enzo Vieira Zanoni! 👋
 
-### 👨‍💻 Desenvolvedor Full Stack & Entusiasta de Data Science
+### 👨‍💻 Desenvolvedor Front-end (Vue.js) & Entusiasta de Data Science
 
-Sou apaixonado por transformar linhas de código em soluções que impactam pessoas. Atualmente, foco meus estudos em criar interfaces modernas com **JavaScript** e realizar análises inteligentes com **Python**.
+Focado em construir interfaces modernas, reativas e eficientes. Atualmente, dedico meus estudos ao ecossistema **Vue.js** para o front-end e utilizo **Python** para análise de dados e automação.
 
 ---
 
 ### 🛠 Tecnologias e Ferramentas
 
-**Front-end & Web:**
+**Front-end Portfólio:**
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Data Science & Backend:**
+**Data Science:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -26,26 +26,26 @@ Sou apaixonado por transformar linhas de código em soluções que impactam pess
 
 ### 🚀 Meus Projetos Principais
 
-#### 👾 [Pokedex 1](link-do-seu-repositorio)
-Uma aplicação web interativa que utiliza a PokéAPI para exibir informações detalhadas dos Pokémon. 
-- **Desafio:** Consumo de APIs assíncronas e renderização dinâmica de componentes.
-- **Stacks:** JavaScript, HTML e CSS.
+#### 👾 [Pokedex 1](https://github.com/zanonienzo)
+Uma aplicação web desenvolvida para listar e filtrar Pokémon, focando em componentes reutilizáveis.
+- **Destaque:** Implementação de lógica reativa e consumo de API.
+- **Stacks:** Vue.js, CSS3 e consumo de PokéAPI.
 
-#### 📊 [Análise de Dados com Python](link-do-seu-outro-repositorio)
-Projeto focado em Data Science para processamento de planilhas e geração de insights.
-- **Desafio:** Tratamento de dados inconsistentes e visualização de métricas.
-- **Stacks:** Python, Pandas.
+#### 📊 [Análise de Dados com Python](https://github.com/zanonienzo)
+Projeto focado em extração de insights a partir de bases de dados complexas.
+- **Destaque:** Limpeza de dados (Data Cleaning) e geração de gráficos estatísticos.
+- **Stacks:** Python, Pandas e Matplotlib.
 
 ---
 
-### 📫 Como me encontrar:
+### 📫 Contato Profissional:
 
+- **GitHub:** [github.com/zanonienzo](https://github.com/zanonienzo)
 - **E-mail:** [zanonienzo10@gmail.com](mailto:zanonienzo10@gmail.com)
-- **LinkedIn:** [Seu Nome Aqui](https://www.linkedin.com/in/seu-perfil/)
 - **WhatsApp:** [(43) 99108-7850](https://wa.me/5543991087850)
 
 ---
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do Enzo](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical)
+### 📈 Minhas Estatísticas
+![Estatísticas do Enzo](https://github-readme-stats.vercel.app/api?username=zanonienzo&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zanonienzo&layout=compact&theme=radical)
