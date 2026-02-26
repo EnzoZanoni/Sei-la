@@ -49,5 +49,4 @@ Criação de páginas básicas para suporte e visualização de dados.
 ---
 
 ### 📈 Minhas Estatísticas
-![Estatísticas do Enzo](https://github.com/enzozanoni)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=enzozanoni&layout=compact&theme=radical)
+![Linguagens mais usadas](https://profile-readme-generator.com/assets/snake.svg)
