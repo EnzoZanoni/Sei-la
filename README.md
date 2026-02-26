@@ -42,12 +42,12 @@ Criação de páginas básicas para suporte e visualização de dados.
 
 ### 📫 Contato Profissional:
 
-- **GitHub:** [github.com/zanonienzo](https://github.com/zanonienzo)
+- **GitHub:** [github.com/enzozanoni](https://github.com/enzozanoni)
 - **E-mail:** [zanonienzo10@gmail.com](mailto:zanonienzo10@gmail.com)
 - **WhatsApp:** [(43) 99108-7850](https://wa.me/5543991087850)
 
 ---
 
 ### 📈 Minhas Estatísticas
-![Estatísticas do Enzo](https://github-readme-stats.vercel.app/api?username=zanonienzo&show_icons=true&theme=radical)
+![Estatísticas do Enzo](https://github.com/enzozanoni)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=zanonienzo&layout=compact&theme=radical)
